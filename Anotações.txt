@@ -1,0 +1,7 @@
+Firebase App
+
+1. Criar uma nova classe java cria funções para o App;
+
+2. Construtor é uma classe que constrói ....
+
+3. Getter and Setter forma métodos para "pegar" dados e defini-los, podendo salvá-los;
