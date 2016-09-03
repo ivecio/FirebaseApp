@@ -2,6 +2,11 @@ Firebase App
 
 1. Criar uma nova classe java cria funções para o App;
 
-2. Construtor é uma classe que constrói ....
+2. Construtor é uma classe que constrói uma variável com outras variáveis. Ex: nome, com idade, sexo, sobrenome, etc.
 
 3. Getter and Setter forma métodos para "pegar" dados e defini-los, podendo salvá-los;
+
+4. Listener é como um "ouvido". Vai ficar ouvindo os valores inserido numa variável pré-determinada; Se mudar alguma variável diretamente no site do Firebase, o App ou o próprio Android Studio já captam e transmitem o novo valor;  -- Por isso o Firebase é chamado de "banco de dados em tempo real";
+
+
+
